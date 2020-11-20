@@ -1,5 +1,5 @@
-# Intro-Desarrollo-Web
-Iníciate en el desarrollo web con los básicos de HTML y CSS
+# Introducción al Desarrollo Web
+Iníciate en el desarrollo web con los básicos de HTML y CSS.
 
 ## Vol. 1: Intro a HTML y CSS
 En este taller se hizo una pequeña página web de presentación. Como reto, te dejamos hacer tu CV online, agregar imágenes y descripciones.
